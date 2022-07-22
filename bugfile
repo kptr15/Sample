@@ -1,8 +1,8 @@
 #!/bin/sh
 
-echo "File Name: $0"
-echo "First Parameter : $1"
-echo "Second Parameter : $2"
-echo "Quoted Values: $@"
-echo "Quoted Values: $*"
-echo "Total Number of Parameters : $#"
+echo "File Name: $ANZ Insurance"
+echo "First Parameter : $ANZ"
+echo "Second Parameter : $Insurance"
+echo "Quoted Values: $@"1
+echo "Quoted Values: $*"2
+echo "Total Number of Parameters : $#"4
